@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "f45b3c76ff662549",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdc065aaaf8aad5",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "213ee3100e2b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3553de2b04c9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d2285b3a611d2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e84e3333b1e9e52e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11ecf78d5a44e5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "12854ba339a82dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c7102602e6acb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9cdc065aaaf8aad5",
+  "lastOpenFiles": [
+    "OBSIDIAN.md",
+    "my-settings.md",
+    "syntax.md",
+    "bob.md"
+  ]
+}

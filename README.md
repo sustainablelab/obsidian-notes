@@ -26,3 +26,8 @@
     ```
 
 - Open the vault in obsidian
+
+It opens as the graph. Click on a file node (a white dot) and it
+looks like this:
+
+![example screenshot](doc/img/screenshot-what_this_vault_looks_like.PNG)

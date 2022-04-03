@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f45b3c76ff662549",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d3832e10c99fe5",
+        "type": "leaf",
+        "dimension": 44.15384615384615,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e94677ea1838e565"
+      },
+      {
+        "id": "4477ced75a1a33bf",
+        "type": "split",
+        "dimension": 55.84615384615385,
+        "children": [
+          {
+            "id": "9cdc065aaaf8aad5",
+            "type": "leaf",
+            "dimension": 64.6814404432133,
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6cc873065e3e9ad7",
+            "type": "split",
+            "dimension": 35.3185595567867,
+            "children": [
+              {
+                "id": "6312b28b06040001",
+                "type": "leaf",
+                "dimension": 47.07692307692308,
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              },
+              {
+                "id": "5ea0b9bea6649b8a",
+                "type": "leaf",
+                "dimension": 52.92307692307693,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "README.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "e94677ea1838e565"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "213ee3100e2b1abd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3553de2b04c9f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d2285b3a611d2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e84e3333b1e9e52e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11ecf78d5a44e5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "12854ba339a82dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c7102602e6acb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdc10fef13d04ea9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e3d3832e10c99fe5",
+  "lastOpenFiles": [
+    "README.md",
+    "doc/zet/open-vault-by-uri.md",
+    "doc/zet/how-i-do.md",
+    "doc/zet/obsidian-folder.md",
+    "doc/zet/graph-view-animation.md",
+    "doc/zet/syntax.md",
+    "doc/zet/to-figure-out.md",
+    "doc/zet/ui.md",
+    "my-settings.md",
+    "ui.md"
+  ]
+}

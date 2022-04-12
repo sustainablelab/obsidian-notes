@@ -1,8 +1,3 @@
-[[OBSIDIAN]]
-
-- #blue-adjective
-- #example
-
 # Pin panes
 
 - Pin the graph view

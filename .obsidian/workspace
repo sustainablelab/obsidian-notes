@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "e94677ea1838e565"
@@ -40,7 +40,7 @@
               {
                 "id": "6312b28b06040001",
                 "type": "leaf",
-                "dimension": 47.07692307692308,
+                "dimension": 47.07692307692307,
                 "state": {
                   "type": "outline",
                   "state": {
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:(_1_ OR _2_ OR _3)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,14 +180,14 @@
   "active": "e3d3832e10c99fe5",
   "lastOpenFiles": [
     "README.md",
+    "doc/zet/syntax.md",
     "doc/zet/open-vault-by-uri.md",
     "doc/zet/how-i-do.md",
+    "doc/zet/my-settings.md",
+    "doc/zet/ui.md",
+    "doc/zet/_1_OBSIDIAN.md",
     "doc/zet/obsidian-folder.md",
     "doc/zet/graph-view-animation.md",
-    "doc/zet/syntax.md",
-    "doc/zet/to-figure-out.md",
-    "doc/zet/ui.md",
-    "my-settings.md",
-    "ui.md"
+    "doc/zet/to-figure-out.md"
   ]
 }

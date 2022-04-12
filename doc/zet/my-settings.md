@@ -1,5 +1,3 @@
-[[OBSIDIAN]]
-
 # Forces
 
 First:

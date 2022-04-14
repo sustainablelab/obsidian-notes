@@ -1,5 +1,3 @@
-- #test
-
 # Shortcut to open vault
 
 I setup two shortcuts to launch Obsidian with whatever vault is

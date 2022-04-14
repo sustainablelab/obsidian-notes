@@ -116,15 +116,7 @@
       "key": "M"
     }
   ],
-  "app:open-vault": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "O"
-    }
-  ],
+  "app:open-vault": [],
   "editor:toggle-fold": [],
   "backlink:open": [
     {
@@ -133,6 +125,24 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "outgoing-links:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
     }
   ]
 }

@@ -1,0 +1,570 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "f45b3c76ff662549",
+        "type": "split",
+        "children": [
+          {
+            "id": "6cc873065e3e9ad7",
+            "type": "split",
+            "children": [
+              {
+                "id": "9bc222eb05e83d84",
+                "type": "leaf",
+                "dimension": 50,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "mode": "source"
+                  }
+                },
+                "group": "123b0ef84ec27770"
+              },
+              {
+                "id": "5b3660111bf68ab3",
+                "type": "split",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "b436c58a93c17106",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "d9bdb8789ca34ff4",
+                    "type": "split",
+                    "children": [
+                      {
+                        "id": "6312b28b06040001",
+                        "type": "leaf",
+                        "state": {
+                          "type": "outline",
+                          "state": {
+                            "file": "doc/zet/to-figure-out.md"
+                          }
+                        },
+                        "group": "123b0ef84ec27770"
+                      },
+                      {
+                        "id": "3e27a0e408ca90a7",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "doc/zet/to-figure-out.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 1,
+                              "close": false
+                            }
+                          },
+                          "pinned": true
+                        },
+                        "group": "123b0ef84ec27770"
+                      }
+                    ],
+                    "direction": "vertical"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "213ee3100e2b1abd",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b3553de2b04c9f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40d2285b3a611d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e84e3333b1e9e52e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:(_1_ OR _2_ OR _3)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "11ecf78d5a44e5f2",
+        "type": "split",
+        "children": [
+          {
+            "id": "12854ba339a82dc2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1c7102602e6acb7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fdc10fef13d04ea9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ecfb3a4f2ae42c27",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "9bc222eb05e83d84"
+    },
+    "base2": {
+      "main": {
+        "id": "f45b3c76ff662549",
+        "type": "split",
+        "children": [
+          {
+            "id": "6cc873065e3e9ad7",
+            "type": "split",
+            "children": [
+              {
+                "id": "6312b28b06040001",
+                "type": "leaf",
+                "dimension": 15.384615384615385,
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md"
+                  }
+                },
+                "group": "123b0ef84ec27770"
+              },
+              {
+                "id": "9bc222eb05e83d84",
+                "type": "leaf",
+                "dimension": 34.61538461538461,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "123b0ef84ec27770"
+              },
+              {
+                "id": "5b3660111bf68ab3",
+                "type": "split",
+                "dimension": 50,
+                "children": [
+                  {
+                    "id": "b436c58a93c17106",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "3e27a0e408ca90a7",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "doc/zet/to-figure-out.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": false
+                        }
+                      },
+                      "pinned": true
+                    },
+                    "group": "123b0ef84ec27770"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "213ee3100e2b1abd",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b3553de2b04c9f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40d2285b3a611d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e84e3333b1e9e52e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:(_1_ OR _2_ OR _3)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "11ecf78d5a44e5f2",
+        "type": "split",
+        "children": [
+          {
+            "id": "12854ba339a82dc2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1c7102602e6acb7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fdc10fef13d04ea9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ecfb3a4f2ae42c27",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "doc/zet/to-figure-out.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "6312b28b06040001"
+    },
+    "graph": {
+      "main": {
+        "id": "f45b3c76ff662549",
+        "type": "split",
+        "children": [
+          {
+            "id": "1b0fc90e97350d82",
+            "type": "split",
+            "children": [
+              {
+                "id": "b4f00da37fa0603a",
+                "type": "leaf",
+                "dimension": 18.69230769230769,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "doc/zet/open-vault-by-uri.md",
+                    "mode": "preview"
+                  }
+                },
+                "group": "96d67a34f35cebba"
+              },
+              {
+                "id": "b436c58a93c17106",
+                "type": "leaf",
+                "dimension": 41.76923076923077,
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "3e27a0e408ca90a7",
+                "type": "leaf",
+                "dimension": 39.53846153846154,
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "doc/zet/open-vault-by-uri.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.75143423222776,
+                      "close": true
+                    }
+                  },
+                  "pinned": true
+                },
+                "group": "96d67a34f35cebba"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "213ee3100e2b1abd",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b3553de2b04c9f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40d2285b3a611d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e84e3333b1e9e52e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file:(_1_ OR _2_ OR _3)",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "11ecf78d5a44e5f2",
+        "type": "split",
+        "children": [
+          {
+            "id": "12854ba339a82dc2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1c7102602e6acb7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "fdc10fef13d04ea9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ecfb3a4f2ae42c27",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "b436c58a93c17106"
+    }
+  },
+  "active": "base2"
+}

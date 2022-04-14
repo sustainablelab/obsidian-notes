@@ -4,58 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d3832e10c99fe5",
-        "type": "leaf",
-        "dimension": 44.15384615384615,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        },
-        "group": "e94677ea1838e565"
-      },
-      {
-        "id": "4477ced75a1a33bf",
+        "id": "6cc873065e3e9ad7",
         "type": "split",
-        "dimension": 55.84615384615385,
         "children": [
           {
-            "id": "9cdc065aaaf8aad5",
+            "id": "6312b28b06040001",
             "type": "leaf",
-            "dimension": 64.6814404432133,
-            "pinned": true,
+            "dimension": 15.384615384615385,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
+              "type": "outline",
+              "state": {
+                "file": "doc/zet/to-figure-out.md"
+              }
+            },
+            "group": "123b0ef84ec27770"
           },
           {
-            "id": "6cc873065e3e9ad7",
+            "id": "9bc222eb05e83d84",
+            "type": "leaf",
+            "dimension": 34.61538461538461,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/zet/to-figure-out.md",
+                "mode": "preview"
+              }
+            },
+            "group": "123b0ef84ec27770"
+          },
+          {
+            "id": "5b3660111bf68ab3",
             "type": "split",
-            "dimension": 35.3185595567867,
+            "dimension": 50,
             "children": [
               {
-                "id": "6312b28b06040001",
+                "id": "b436c58a93c17106",
                 "type": "leaf",
-                "dimension": 47.07692307692307,
+                "pinned": true,
                 "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "README.md"
-                  }
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
                 }
               },
               {
-                "id": "5ea0b9bea6649b8a",
+                "id": "3e27a0e408ca90a7",
                 "type": "leaf",
-                "dimension": 52.92307692307693,
+                "pinned": true,
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "README.md",
+                    "file": "doc/zet/to-figure-out.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -79,17 +78,18 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 1,
-                      "close": true
+                      "close": false
                     }
-                  }
+                  },
+                  "pinned": true
                 },
-                "group": "e94677ea1838e565"
+                "group": "123b0ef84ec27770"
               }
             ],
-            "direction": "vertical"
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "doc/zet/to-figure-out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,26 +168,38 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ecfb3a4f2ae42c27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "doc/zet/to-figure-out.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e3d3832e10c99fe5",
+  "active": "6312b28b06040001",
   "lastOpenFiles": [
-    "README.md",
-    "doc/zet/syntax.md",
-    "doc/zet/open-vault-by-uri.md",
-    "doc/zet/how-i-do.md",
-    "doc/zet/my-settings.md",
-    "doc/zet/ui.md",
+    "doc/zet/to-figure-out.md",
     "doc/zet/_1_OBSIDIAN.md",
-    "doc/zet/obsidian-folder.md",
+    "doc/zet/my-settings.md",
     "doc/zet/graph-view-animation.md",
-    "doc/zet/to-figure-out.md"
+    "doc/zet/open-vault-by-uri.md",
+    "README.md",
+    "doc/zet/how-i-do.md",
+    "doc/zet/obsidian-folder.md",
+    "doc/zet/syntax.md",
+    "doc/zet/ui.md"
   ]
 }
